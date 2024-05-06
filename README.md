@@ -2,12 +2,13 @@
 
 PoC implementation of Drag And Drop functionality over React Microfrontends with Redux
 
-Demo how does it work:
+## Demo how does it work: 
+ Note: Video/Gif drastically slows drag and drop but real app is smooth
 ![Demo](./DnD_Microfrontends.gif)
 
-Marked microfrontend React components that are injected in sample app:
+##  Marked microfrontend React components that are injected in sample app:
 ![ScreenshotDemo](./DemoDnDScreenshot.png)
 
-Component diagram:
+## Component diagram:
 ![ComponentDiagram](./ComponentDiagram.png)
 
