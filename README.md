@@ -1,6 +1,8 @@
 # Drag & Drop Over React Microfrontends - PoC
 
-PoC implementation of Drag And Drop functionality over React Microfrontends with Redux
+PoC implementation of Drag And Drop functionality over React Microfrontends with Redux.
+
+It was just a quick PoC, not production app; so no frontend tests; little focus on code clarity and structure :)
 
 ## Demo how does it work: 
  Note: Video/Gif drastically slows drag and drop but real app is smooth
@@ -29,3 +31,9 @@ PoC implementation of Drag And Drop functionality over React Microfrontends with
    - `yarn`
    - `yarn start` 
    - Demo app exposed: http://localhost:40001
+
+```
+Tested on:
+-  yarn 1.22.18
+-  node/20.10.0
+```
