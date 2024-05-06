@@ -12,3 +12,20 @@ PoC implementation of Drag And Drop functionality over React Microfrontends with
 ## Component diagram:
 ![ComponentDiagram](./ComponentDiagram.png)
 
+## How to run it:
+
+1) Run rental-app
+   - `cd micro-frontends/rental-app`
+   - `yarn`
+   - `yarn start` 
+   - Microfrontend exposed: http://localhost:30001/carRentalRemoteEntry.js
+2) Run car-app
+   - `cd micro-frontends/car-app`
+   - `yarn`
+   - `yarn start` 
+   - Microfrontend exposed: http://localhost:30002/carRemoteEntry.js
+3) Run sample stub
+   - `cd stubs/master-stub`
+   - `yarn`
+   - `yarn start` 
+   - Demo app exposed: http://localhost:40001
