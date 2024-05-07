@@ -2,7 +2,7 @@
 
 PoC implementation of Drag And Drop functionality over React Microfrontends with Redux.
 
-It was just a quick PoC, not production app; so no frontend tests; little focus on code clarity and structure :)
+It was just a quick PoC, not production app; so no frontend tests; no frontend fireworks; little focus on code clarity and structure :)
 
 ## Demo how does it work: 
  Note: Video/Gif drastically slows drag and drop but real app is smooth
