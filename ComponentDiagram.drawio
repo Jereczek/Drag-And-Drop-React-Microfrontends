@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T19:41:21.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="edaRH39aY8IpXBFIgnxX" version="24.3.0" type="device" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-07T06:21:18.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="eoBLmHROhic2nSNNE6V4" version="24.3.0" type="device" pages="4">
   <diagram id="Yn5TRi-3Te9KVsg2h0Tu" name="Old">
     <mxGraphModel dx="1565" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="lPZrsbwxUaaFB0V5QGWx-5" value="Microfrontend B.2 &lt;br&gt;(Selected&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;D&amp;amp;D Objects&lt;/span&gt;)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="180" y="300" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="eqRU1JsDqzqzoZwqJnW9-1" value="&lt;code data-language=&quot;typescript-jsx&quot; data-application=&quot;com.atlassian.bitbucket-server&quot;&gt;&lt;font color=&quot;#97d077&quot;&gt;selectedObjects,&amp;nbsp;&lt;/font&gt;&lt;/code&gt;&lt;span style=&quot;color: rgb(255, 51, 51); font-family: monospace;&quot;&gt;availableObjects&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="60" width="360" height="20" as="geometry" />
+        <mxCell id="eqRU1JsDqzqzoZwqJnW9-1" value="&lt;code data-language=&quot;typescript-jsx&quot; data-application=&quot;com.atlassian.bitbucket-server&quot;&gt;&lt;font color=&quot;#97d077&quot;&gt;selectedObjects&lt;/font&gt;,&lt;font color=&quot;#97d077&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/code&gt;&lt;span style=&quot;color: rgb(255, 51, 51); font-family: monospace;&quot;&gt;availableObjects &lt;/span&gt;&lt;span style=&quot;font-family: monospace;&quot;&gt;: change&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="120" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KGVZIIwrvz78Vak8lRB2-1" value="Redux&lt;div&gt;Global&lt;/div&gt;&lt;div&gt;Store&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="810" y="100" width="160" height="280" as="geometry" />
@@ -36,6 +36,8 @@
             <mxPoint x="1010" y="370" as="sourcePoint" />
             <mxPoint x="1060" y="320" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="790" y="130" />
+              <mxPoint x="790" y="70" />
               <mxPoint x="890" y="70" />
             </Array>
           </mxGeometry>
